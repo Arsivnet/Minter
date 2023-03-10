@@ -39,6 +39,13 @@
   font-family: var(--font-mono);
 }
 
+.container {
+	background: "#1F1F1F"
+}
+.wallet-adapter-button-trigger {
+  background-color: #833BBE;
+}
+
 .grid {
   display: grid;
   grid-template-columns: repeat(4, minmax(25%, auto));
